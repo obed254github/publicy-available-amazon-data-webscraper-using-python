@@ -30,4 +30,4 @@ Ensure you have the following installed:
 ```bash
 pip install requests beautifulsoup4 pandas lxml
 ```
-**Disclaimer**: This project isfor learning purpose only.
+**Disclaimer**: This project is for `learning purpose only`.
