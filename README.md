@@ -12,10 +12,8 @@ This project implements a Python-based webscraper to extract product information
   - Price
   - Ratings
   - Number of Reviews
-  - Product URL
 - Handles pagination
-- Saves data into structured formats (e.g., CSV)
-- Built in Jupyter Notebook for interactive exploration
+- Saves data into structured CSV file
 
 ---
 
