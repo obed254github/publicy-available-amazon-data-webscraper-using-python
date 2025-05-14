@@ -1,6 +1,6 @@
 # 🛒 Amazon product details webscraper
 
-This project implements a Python-based webscraper to extract product information from Amazon. The scraper collects details such as product name, price, rating, number of reviews, and product URL. It is useful for data collection and analysis of e-commerce product trends and pricing strategies.
+This project implements a Python-based webscraper to extract product information from Amazon. The scraper collects details such as product name, price, rating, and number of reviews. It is useful for data collection and analysis of e-commerce product trends and pricing strategies.
 
 ---
 
@@ -30,3 +30,4 @@ Ensure you have the following installed:
 ```bash
 pip install requests beautifulsoup4 pandas lxml
 ```
+**Disclaimer**: This project isfor learning purpose only.
